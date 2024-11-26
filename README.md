@@ -35,21 +35,24 @@ Node.js, Django, Python, PHP
 C#, Java, C
 SQL: MySQL, PostgreSQL, SQL Server
 NoSQL: MongoDB, Firebase
-
 🧑‍💻 Testes de Software
 Cypress: Testes automatizados para garantir a qualidade do código.
 QA: Experiência em processos de garantia de qualidade e melhorias contínuas em sistemas.
 🛠️ Ferramentas e Versionamento
 Git e GitHub: Controle de versão e colaboração em projetos de código aberto.
 Excel VBA: Automação de tarefas e processos empresariais.
-
 🌱 Atualmente aprendendo
 Node.js: Aprofundando meus conhecimentos em back-end e no desenvolvimento de APIs robustas.
 React: Aprimorando minhas habilidades para o desenvolvimento de Single Page Applications (SPAs).
 UX/UI: Focado em criar interfaces cada vez mais intuitivas e acessíveis.
+📈 Projetos
+Aqui estão alguns dos projetos que desenvolvi e estou trabalhando:
 
+Projeto 1: Descrição breve do projeto 1.
+Projeto 2: Descrição breve do projeto 2.
+Projeto 3: Descrição breve do projeto 3.
 📫 Como me encontrar
 Email: samuel-dng@outlook.com
-LinkedIn: Samuel Oliveira
-GitHub: github.com/samueldng
+LinkedIn:
+GitHub:
 Se você está em busca de um profissional dedicado, com uma sólida base técnica e paixão por programação, ficarei feliz em colaborar no seu projeto! 🚀
