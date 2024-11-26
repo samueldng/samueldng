@@ -39,5 +39,5 @@ Projeto 3: Descrição do projeto 3.
 📫 Como me encontrar:
 Email: [samuel-dng@outlook.com]
 LinkedIn: [https://www.linkedin.com/in/samuel-oliveira-26bb7014a/]
-GitHub: [[https://github.com/samueldng]
+GitHub: [https://github.com/samueldng]
 Se você está buscando um profissional apaixonado por TI e programação, com uma sólida base técnica e experiência prática, vamos conversar! 🚀
