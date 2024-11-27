@@ -93,6 +93,20 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ---
 
+### 🤖 **Inteligência Artificial (AI) e Machine Learning**
+
+#### **Linguagens**
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+
+---
+
+### **Exemplo de Aplicações:**
+
+- **Processamento de Linguagem Natural (NLP)**
+
+- **Chatbots e Assistentes Virtuais**
+
 ### 📫 **Como me Encontrar**
 
 -  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
