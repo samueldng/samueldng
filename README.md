@@ -69,21 +69,11 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ---
 
-### 📈 **Projetos**
-
-Aqui estão alguns dos projetos que desenvolvi e estou trabalhando atualmente:
-
-- **[Projeto 1](link_do_projeto)**: Descrição breve do projeto, tecnologias utilizadas e impacto.
-- **[Projeto 2](link_do_projeto)**: Descrição de como o projeto foi executado e resultados alcançados.
-- **[Projeto 3](link_do_projeto)**: Visão geral do projeto e como ele contribuiu para minha evolução profissional.
-
----
-
 ### 📫 **Como me Encontrar**
 
-- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-26bb7014a/)
-- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueldng)
+-  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-26bb7014a/)
+-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueldng)
 
 Se você está em busca de um profissional com sólida base técnica, apaixonado por programação e comprometido com inovação, ficarei feliz em colaborar no seu projeto! 🚀
 
