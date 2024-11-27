@@ -1,74 +1,89 @@
-## Olá, sou Samuel Oliveira! 👋
+# Olá, sou Samuel Oliveira! 👋
 
 ### 🚀 Sobre Mim
 
-Desde a infância, sou apaixonado por tecnologia. Em 2012, comecei minha jornada na área de TI com o **Técnico em Informática** no **IFMA**, onde tive meu primeiro contato com a programação. Desde então, a informática não só se tornou minha carreira, mas também minha verdadeira paixão.
+Sou apaixonado por tecnologia desde a infância e comecei minha jornada na área de TI em 2012, no **Técnico em Informática** no **IFMA**. Desde então, a informática tornou-se minha carreira e paixão.
 
-Com o tempo, acumulei experiência em várias áreas da tecnologia, desde **suporte técnico** até **gestão de infraestrutura**, **teste de software** e **desenvolvimento**. Minha trajetória me levou a trabalhar com tecnologias diversas, sempre focando em aprender e me aprimorar.
+Com mais de 10 anos de experiência, atuei em **suporte técnico**, **gestão de infraestrutura**, **teste de software** e **desenvolvimento**. Atualmente, sou **Supervisor de Redes de Fibra Óptica** na **bipNET Telecom**, mas minha verdadeira paixão é **programação**, especialmente com **Node.js** e **React** para o desenvolvimento de **aplicações Web** e **Mobile**.
 
-Atualmente, sou **Supervisor de Redes de Fibra Óptica** na **bipNET Telecom**, onde lidero a gestão e manutenção de redes. No entanto, minha verdadeira paixão sempre foi a **programação**. Hoje, me especializo em **Node.js** e **React**, com foco no desenvolvimento de **aplicações Web** e **Mobile**.
+Estou sempre em busca de novos desafios que me permitam aplicar minha criatividade e aprender constantemente, contribuindo com soluções inovadoras e de alta qualidade.
 
-Estou sempre em busca de novos desafios que me permitam continuar aprendendo e aplicando minha criatividade para entregar soluções inovadoras.
+---
 
 ### 🧑‍💻 Experiência Profissional
 
-- **Analista e QA na Sêculos Sistemas**  
-  Trabalhei com **C#**, realizando testes de sistemas e garantindo a entrega de produtos de alta qualidade. Foi uma experiência valiosa que me deu uma visão ampla do processo de desenvolvimento e qualidade de software.
+- **Supervisor de Redes de Fibra Óptica** | **bipNET Telecom**  
+  Lidero a instalação, gestão e manutenção de redes de fibra ótica, assegurando a qualidade e a eficiência dos serviços prestados. Coordeno equipes para garantir o cumprimento de metas e a satisfação dos clientes.
 
-- **Suporte Técnico na Cassianos & Cassianos**  
-  Prestei suporte a usuários e gerenciei a manutenção de infraestrutura de TI, desenvolvendo habilidades de troubleshooting e de atendimento ao cliente.
+- **Gestor de TI** | **Laboratório Hemolab**  
+  Gerenciei toda a infraestrutura de TI, coordenei a manutenção de sistemas e implementei novas soluções tecnológicas. Otimizei processos internos, melhorando a eficiência operacional do laboratório.
 
-- **Gestor de TI no Laboratório Hemolab**  
-  Fui responsável pela gestão de toda a infraestrutura de TI e suporte a sistemas, garantindo o bom funcionamento da operação diária.
+- **Suporte Técnico** | **Cassianos & Cassianos**  
+  Prestei suporte a usuários internos e externos, garantindo a manutenção da infraestrutura de TI e a resolução de problemas técnicos. Desenvolvi habilidades em troubleshooting e atendimento ao cliente.
 
-- **Supervisor de Redes de Fibra Óptica na bipNET Telecom**  
-  Gerencio a instalação e manutenção de redes de fibra ótica, garantindo a qualidade do serviço e a satisfação dos clientes.
+- **Analista e QA** | **Sêculos Sistemas**  
+  Trabalhei com **C#** para desenvolver testes de qualidade, garantindo a entrega de sistemas robustos e confiáveis. Colaborei com equipes multidisciplinares para assegurar o padrão de qualidade do produto final.
+
+---
 
 ### 📚 Tecnologias e Habilidades
 
-Tenho experiência com uma ampla gama de tecnologias que utilizo tanto em **projetos pessoais** quanto **profissionais**:
-
 #### 🖥️ **Desenvolvimento Front-End**
-- **HTML5**, **CSS3**, **JavaScript**, **React**  
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- **UX/UI Design**: Criação de interfaces intuitivas e agradáveis.
-- **Bootstrap**: Desenvolvimento responsivo e adaptável.
-- **Web Design**: Design e prototipação de sites e aplicações.
-- **WordPress**: Desenvolvimento de sites e blogs.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 #### 🖧 **Desenvolvimento Back-End**
-- **Node.js**, **Django**, **Python**, **PHP**  
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- **C#**, **Java**, **C**
-- **SQL**: MySQL, PostgreSQL, SQL Server
-- **NoSQL**: MongoDB, Firebase
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🛠️ **Banco de Dados**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
 
 #### 🧑‍💻 **Testes de Software**
-- **Cypress**: Testes automatizados para garantir a qualidade do código.  
-  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-- **QA**: Experiência em processos de garantia de qualidade e melhorias contínuas em sistemas.
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 #### 🛠️ **Ferramentas e Versionamento**
-- **Git** e **GitHub**: Controle de versão e colaboração em projetos de código aberto.  
-  ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-- **Excel VBA**: Automação de tarefas e processos empresariais.
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌱 **Atualmente aprendendo**
-- **Node.js**: Aprofundando meus conhecimentos em back-end e no desenvolvimento de APIs robustas.
-- **React**: Aprimorando minhas habilidades para o desenvolvimento de **Single Page Applications (SPAs)**.
-- **UX/UI**: Focado em criar interfaces cada vez mais intuitivas e acessíveis.
+---
+
+### 🌱 **Atualmente Aprendendo**
+
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+- ![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white)
+
+---
 
 ### 📈 **Projetos**
-Aqui estão alguns dos projetos que desenvolvi e estou trabalhando:
 
-- **[Projeto 1](link_do_projeto)**: Descrição breve do projeto 1.
-- **[Projeto 2](link_do_projeto)**: Descrição breve do projeto 2.
-- **[Projeto 3](link_do_projeto)**: Descrição breve do projeto 3.
+Aqui estão alguns dos projetos que desenvolvi e estou trabalhando atualmente:
 
-### 📫 **Como me encontrar**
-- **Email**: [samuel-dng@outlook.com](mailto:samuel-dng@outlook.com)
+- **[Projeto 1](link_do_projeto)**: Descrição breve do projeto, tecnologias utilizadas e impacto.
+- **[Projeto 2](link_do_projeto)**: Descrição de como o projeto foi executado e resultados alcançados.
+- **[Projeto 3](link_do_projeto)**: Visão geral do projeto e como ele contribuiu para minha evolução profissional.
+
+---
+
+### 📫 **Como me Encontrar**
+
+- **Email**: [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
 - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-26bb7014a/)
 - **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueldng)
 
-Se você está em busca de um profissional dedicado, com uma sólida base técnica e paixão por programação, ficarei feliz em colaborar no seu projeto! 🚀
+Se você está em busca de um profissional com sólida base técnica, apaixonado por programação e comprometido com inovação, ficarei feliz em colaborar no seu projeto! 🚀
+
