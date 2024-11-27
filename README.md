@@ -2,7 +2,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou apaixonado por tecnologia desde a infância e comecei minha jornada na área de TI em 2012, no **Técnico em Informática** no **IFMA**. Desde então, a informática tornou-se minha carreira e paixão.
+Sou apaixonado por tecnologia desde a infância e comecei minha jornada na área de TI em 2012, ingressando no curso  **Técnico em Informática** no **IFMA**. Desde então, a informática tornou-se minha carreira e paixão.
 
 Com mais de 10 anos de experiência, atuei em **suporte técnico**, **gestão de infraestrutura**, **teste de software** e **desenvolvimento**. Atualmente, sou **Supervisor de Redes de Fibra Óptica** na **bipNET Telecom**, mas minha verdadeira paixão é **programação**, especialmente com **Node.js** e **React** para o desenvolvimento de **aplicações Web** e **Mobile**.
 
