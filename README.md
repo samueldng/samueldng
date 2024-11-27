@@ -69,6 +69,20 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
   <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+#### ⚙️ **Frameworks**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <!-- Novos frameworks -->
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Bootstrap-6610F2?style=for-the-badge&logo=react-bootstrap&logoColor=white" />
+</div>
+
 ---
 
 ### 🌱 **Atualmente Aprendendo**
@@ -81,8 +95,4 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ### 📫 **Como me Encontrar**
 
--  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-26bb7014a/)
--  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueldng)
-
-Se você está em busca de um profissional com sólida base técnica, apaixonado por programação e comprometido com inovação, ficarei feliz em colaborar no seu projeto! 🚀
+-  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook
