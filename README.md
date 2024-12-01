@@ -101,7 +101,7 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ---
 
-### **Exemplo de Aplicações:**
+### **Aplicações:**
 
 - **Processamento de Linguagem Natural (NLP)**
 
