@@ -87,17 +87,21 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ### 🌱 **Atualmente Aprendendo**
 
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-- ![UX/UI](https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/UX%2FUI-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
 ---
 
 ### 🤖 **Inteligência Artificial (AI) e Machine Learning**
 
 #### **Linguagens**
-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 
 ---
 
@@ -109,9 +113,21 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 
 ### 📫 **Como me Encontrar**
 
--  [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-dng@outlook.com)
--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-oliveira-26bb7014a/)
--  [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samueldng)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="mailto:samuel-dng@outlook.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/samuel-oliveira-26bb7014a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/samueldng">
+    <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5599985143916">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
 ### 👀 **Visitas ao meu perfil**
 
 ![Visitas](https://komarev.com/ghpvc/?username=samueldng)
