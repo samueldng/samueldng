@@ -61,9 +61,7 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha criativida
 </div>
 
 #### 🧑‍💻 **Testes de Software**
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-</div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;"> <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </div>
 
 #### 🛠️ **Ferramentas e Versionamento**
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
