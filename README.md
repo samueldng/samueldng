@@ -1,3 +1,8 @@
+<div  align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=3D3B3B&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 <h1 align="center">👋 Olá, eu sou o Samuel Oliveira</h1>
 
 <p align="center">
@@ -57,6 +62,7 @@ Gosto de criar soluções práticas, estudar novas tecnologias e compartilhar co
 
 ---
 
+
 ### 📫 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Samuel%20Oliveira-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oliveira-26bb7014a)  
@@ -67,3 +73,6 @@ Gosto de criar soluções práticas, estudar novas tecnologias e compartilhar co
 ---
 
 <p align="center">💡 Sempre aprendendo e compartilhando conhecimento 🚀</p>
+<div  align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=3D3B3B&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
