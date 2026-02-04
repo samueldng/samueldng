@@ -61,28 +61,13 @@ Gosto de criar soluções práticas, estudar novas tecnologias e compartilhar co
 - [**solicitacao_consultas**](https://github.com/samueldng/solicitacao_consultas) – Aplicativo de solicitações online.
 
 ---
-{
-  "type": "Assertion",
-  "id": "https://api.badgr.io/public/assertions/4rc___gkQg-BoSpcppGaOg",
-  "@context": "https://w3id.org/openbadges/v2",
-  "recipient": {
-    "type": "email",
-    "salt": "mjIz488cxFLHZ0nG",
-    "hashed": true,
-    "identity": "sha256$79f7f9abd47bf1a28675f060be1ae8df96e9ea52bdba8acbf132cbecd1449d2e"
-  },
-  "badge": "https://api.badgr.io/public/badges/G0U1YVeOSdGAiytb9Yw6_w",
-  "issuedOn": "2026-02-04T15:33:10.958Z",
-  "image": {
-    "id": "https://badges.parchment.com/public/assertions/4rc___gkQg-BoSpcppGaOg/image"
-  },
-  "narrative": "This badge was awarded for demonstrating proficiency with APIs and Postman by completing foundational tasks in Postman and passing all tests with a submitted Postman Collection",
-  "revoked": false,
-  "verification": {
-    "type": "HostedBadge"
-  }
-}
 
+### 🏅 Certificações
+
+<div align="center">
+  <a href="https://api.badgr.io/public/assertions/4rc___gkQg-BoSpcppGaOg" target="_blank">
+    <img src="https
+---
 ### 📫 Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Samuel%20Oliveira-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-oliveira-26bb7014a)  
