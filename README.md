@@ -42,14 +42,6 @@ Gosto de criar soluções práticas, estudar novas tecnologias e compartilhar co
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=samueldng&show_icons=true&theme=radical&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldng&layout=compact&theme=radical"/>
-</p>
 
 ---
 
