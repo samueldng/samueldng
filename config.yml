@@ -1,0 +1,77 @@
+username: samueldng
+
+profile:
+  name: "Samuel Oliveira"
+  tagline: "Desenvolvedor Full Stack | Analista de Testes QA"
+  company: ""
+  location: "Bacabal, MA, Brasil"
+  bio: |
+    Desenvolvedor apaixonado por criar soluções práticas e eficientes.
+    Tenho experiência desde a construção de interfaces com Vengeance UI até o back-end e automação de testes, sempre integrando ferramentas modernas no meu fluxo de trabalho.
+  philosophy: '"Sempre aprendendo e compartilhando conhecimento 🚀"'
+
+social:
+  email: "samuel-dng@outlook.com"
+  linkedin: "samuel-oliveira-26bb7014a"
+  website: "https://my-portfolio-sam-oliveira.vercel.app/"
+
+galaxy_arms:
+  - name: "Front-end"
+    color: "dendrite_violet"
+    items:
+      - "React JS"
+      - "TypeScript"
+      - "Vengeance UI"
+  - name: "Back-end"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Python"
+      - "PostgreSQL"
+  - name: "QA & Infra"
+    color: "axon_amber"
+    items:
+      - "Cypress"
+      - "Jest"
+      - "Google Cloud"
+
+projects:
+  - repo: "samueldng/sisiago"
+    arm: 1
+    description: "Sistema integrado de PDV desenvolvido em TypeScript."
+  - repo: "samueldng/NativeShop"
+    arm: 0
+    description: "Aplicativo mobile desenvolvido para e-commerce."
+  - repo: "samueldng/bipChat"
+    arm: 1
+    description: "Aplicativo de chat moderno e responsivo."
+  - repo: "samueldng/solicitacao_consultas"
+    arm: 2
+    description: "Aplicativo focado na gestão e solicitação de consultas online."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 6
